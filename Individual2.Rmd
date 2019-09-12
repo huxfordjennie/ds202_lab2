@@ -36,7 +36,7 @@ summary(choco)
 typeof(choco$Company.Location)
 ```
 ```{r}
-plot(choco$rating,choco$Cocoa.Pct )
+
 ```
 
 ## Question set (individual)
